@@ -1,6 +1,6 @@
 # 👨‍💻 Luciano Tadeu
 
-**`Estudante de Back-End`**
+**`Estudante de Engenharia da Computação`**
 
 Me chamo Luciano Tadeu Simões Simplicio Junior, tenho 20 anos e sou natural de Mato Grosso, Cuiabá. Atualmente, estou cursando Engenharia da Computação na UFMT.
 

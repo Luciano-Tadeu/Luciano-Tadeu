@@ -51,11 +51,27 @@ My name is Luciano Tadeu Simões Simplicio Junior, I am 20 years old and I am fr
 />
 <img 
     align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" 
+/>
+<img 
+    align="left" 
     alt="Flutter" 
     title="Flutter"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" 
 />
 
 <br/>

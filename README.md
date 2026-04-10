@@ -1,21 +1,21 @@
 # 👨‍💻 Luciano Tadeu
 
-**`Estudante de Engenharia da Computação`**
+**`Computer Engineering Student`**
 
-Me chamo Luciano Tadeu Simões Simplicio Junior, tenho 20 anos e sou natural de Mato Grosso, Cuiabá. Atualmente, estou cursando Engenharia da Computação na UFMT.
+My name is Luciano Tadeu Simões Simplicio Junior, I am 20 years old and I am from Cuiabá, Mato Grosso. I am currently studying Computer Engineering at UFMT.
 
 <p align="left">
     <a href="https://github.com/Luciano-Tadeu?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Stars" 
+            title="Stars in GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Luciano-Tadeu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Luciano-Tadeu?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me" 
             src="https://custom-icon-badges.demolab.com/github/followers/Luciano-Tadeu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>

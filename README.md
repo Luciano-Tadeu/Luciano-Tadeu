@@ -53,7 +53,7 @@ I'm a Computer Engineering student at the **Federal University of Mato Grosso (U
     &nbsp;
     <img alt="Dart" title="Dart" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" />
     &nbsp;
-    <img alt="GDScript" title="GDScript" width="40" height="40" src="https://raw.githubusercontent.com/godotengine/godot/master/editor/icons/GDScript.svg" />
+    <img alt="GDScript" title="GDScript" width="40" height="40" src="https://uploads.sitepoint.com/wp-content/uploads/2025/01/1735748872gdscript16x9a640w360h.webp" />
 </p>
 
 **Web, Mobile & Design**
